@@ -63,7 +63,7 @@ I implemented a pipeline with:
    ```
 3. Run the notebook:
    ```bash
-   jupyter notebook notebooks/main.ipynb
+   jupyter notebook main.ipynb
    ```
 ## Resources
 - [Binary Classification with a Bank Dataset](https://www.kaggle.com/competitions/playground-series-s5e8/overview)
