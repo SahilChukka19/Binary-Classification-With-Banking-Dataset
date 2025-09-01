@@ -58,13 +58,13 @@ I implemented a pipeline with:
    git clone https://github.com/SahilChukka19/Binary-Classification-With-Banking-Dataset.git
    ```
 2. Install dependencies:
-```bash
-pip install requirements.txt
-```
+   ```bash
+   pip install requirements.txt
+   ```
 3. Run the notebook:
-```bash
-jupyter notebook notebooks/main.ipynb
-```
+   ```bash
+   jupyter notebook notebooks/main.ipynb
+   ```
 ## Resources
 - [Binary Classification with a Bank Dataset](https://www.kaggle.com/competitions/playground-series-s5e8/overview)
 - [My Kaggle Submission](https://www.kaggle.com/code/sahilchukka19/binary-classification-bank-dataset)
